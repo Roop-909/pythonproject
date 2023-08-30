@@ -15,7 +15,7 @@ Getting data from three different APIs and conducting regressional analyses of t
 
 ## Results
 > Yelp API is more extensive in terms of data as compared to foursquare. But In my opinion Foursquare can give more relevant data. Foursquare is built for local social networking but YELP is more related to user reviews.
-> 
+> Still working on the modelling. have completed the data combining last part remaining.
 
 ## Challenges 
 (discuss challenges you faced in the project)

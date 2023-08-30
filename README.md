@@ -19,18 +19,18 @@ Getting data from three different APIs and conducting regressional analyses of t
 
 ## Challenges 
 (discuss challenges you faced in the project)
-.Understanding APIs
-Technical Challenges: JSON parsing errors and API query issues
-Data Cleaning 
-Data Understanding and Interpretation
-Limited time
+1. Understanding APIs
+2. Technical Challenges: JSON parsing errors and API query issues
+3. Data Cleaning 
+4. Data Understanding and Interpretation
+5. Limited time
 
 
 
 ## Future Goals
-API Exploration and Understanding
-Data Cleaning and Transformation
-Interactive Visualization
-Advanced Modeling
+1. API Exploration and Understanding
+2. Data Cleaning and Transformation
+3. Interactive Visualization
+4. Advanced Modeling
 
 
